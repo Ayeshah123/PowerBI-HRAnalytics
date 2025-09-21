@@ -3,16 +3,16 @@ Interactive Power BI dashboard on HR Analytics showcasing Employee Overview and 
 
 > **Note:** This project was created for **learning & practice purposes only**.
 
-##Introduction
+## Introduction
 This project analyzes HR data to explore employee trends across demographics, hiring, and terminations from 2009–2017.
 
-##Data Cleaning & Preparation
+## Data Cleaning & Preparation
 - Remove duplicate Values
 - Ensures data consistency
 - Create two seperate Data tables for Hiring and Termination (using Power Query Editor)
 - Change data types and resolve errors
 
-##Data Modeling (using Star Scehma)
+## Data Modeling (using Star Scehma)
 👉 Dimension Tables:
 - Employee: ID, Name, Salary, Position, State, Gender, Marital Status, Citizenship Status, Hispanic Latino, Race, Date of Birth, Age, Age Range
 - Department: ID, Name
@@ -25,7 +25,7 @@ This project analyzes HR data to explore employee trends across demographics, hi
 
 ---
 
-##Dashboard Features:
+## Dashboard Features:
 👉 Employee Overview
 - Headcount, Terminations & Current Working Employees (Graph and PTD % change)
 - Working Employees by Age Range & Department
@@ -48,8 +48,12 @@ This project analyzes HR data to explore employee trends across demographics, hi
 - PTD % Change ofAvg. Income, Avg. Female Income and Avg. Male Income
 ---
 
-##Project Files
+## Project Files
+
+
+
+
 👯 Open to learning, sharing & collaboration
 
-🌱LinkedIn
-🌱E-mail
+🌱[LinkedIn](#https://www.linkedin.com/in/ayeshabatool160/)
+🌱[E-mail](mailto:ayeshabatool160@gmail.com)
