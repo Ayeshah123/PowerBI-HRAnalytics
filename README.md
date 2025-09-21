@@ -26,26 +26,26 @@ This project analyzes HR data to explore employee trends across demographics, hi
 ---
 
 ## Dashboard Features:
-- Employee Overview:
-  👉 Headcount, Terminations & Current Working Employees (Graph and PTD % change)
-  👉 Working Employees by Age Range & Department
-  👉 Hires by Period and Department
-  👉 Termination Status
+###  📈 Employee Overview:
+  - Headcount, Terminations & Current Working Employees (Graph and PTD % change)
+  - Working Employees by Age Range & Department
+  - Hires by Period and Department
+  - Termination Status
 
 ---
-- Demographics Employee:
-  👉 Gender Split(Males and Females) Graph and PTD % Change
-  👉 Avg. Income, Avg. Female Income and Avg. Male Income (Graph and PTD % change)
-  👉 Avg. Income (Overall, Male, Female) with PTD % change
-  👉 Current Employees by Race
-  👉 Hires by Period and Department
+###  📈 Demographics Employee:
+  - Gender Split(Males and Females) Graph and PTD % Change
+  - Avg. Income, Avg. Female Income and Avg. Male Income (Graph and PTD % change)
+  - Avg. Income (Overall, Male, Female) with PTD % change
+  - Current Employees by Race
+  - Hires by Period and Department
 
 ---
-- DAX Measure:
-  👉 Total Hires, Terminations & Current Working Employees
-  👉 PTD % Change (Hires, Terminations & Current Working Employees)
-  👉 Avg. Income, Avg. Female Income & Avg. Male Income
-  👉 PTD % Change of Avg. Income (Avg. Female Income & Avg. Male Income)
+### DAX Measure:
+  - Total Hires, Terminations & Current Working Employees
+  - PTD % Change (Hires, Terminations & Current Working Employees)
+  - Avg. Income, Avg. Female Income & Avg. Male Income
+  - PTD % Change of Avg. Income (Avg. Female Income & Avg. Male Income)
   
 ---
 
