@@ -26,12 +26,13 @@ This project analyzes HR data to explore employee trends across demographics, hi
 ---
 
 ## Dashboard Features:
-- Employee Overview
+- Employee Overview:
   👉 Headcount, Terminations & Current Working Employees (Graph and PTD % change)
   👉 Working Employees by Age Range & Department
   👉 Hires by Period and Department
   👉 Termination Status
 
+---
 - Demographics Employee:
   👉 Gender Split(Males and Females) Graph and PTD % Change
   👉 Avg. Income, Avg. Female Income and Avg. Male Income (Graph and PTD % change)
@@ -45,6 +46,7 @@ This project analyzes HR data to explore employee trends across demographics, hi
   👉 PTD % Change (Hires, Terminations & Current Working Employees)
   👉 Avg. Income, Avg. Female Income & Avg. Male Income
   👉 PTD % Change of Avg. Income (Avg. Female Income & Avg. Male Income)
+  
 ---
 
 ## Project Files
