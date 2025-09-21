@@ -1,4 +1,4 @@
-📊 PowerBI-HRAnalytics
+# PowerBI-HRAnalytics
 Interactive Power BI dashboard on HR Analytics showcasing Employee Overview and Demographics across 4 periods (2009–2017).
 
 > **Note:** This project was created for **learning & practice purposes only**.
@@ -7,10 +7,10 @@ Interactive Power BI dashboard on HR Analytics showcasing Employee Overview and 
 This project analyzes HR data to explore employee trends across demographics, hiring, and terminations from 2009–2017.
 
 ## Data Cleaning & Preparation
-- Remove duplicate Values
-- Ensures data consistency
-- Create two seperate Data tables for Hiring and Termination (using Power Query Editor)
-- Change data types and resolve errors
+- Removed duplicate values  
+- Ensured data consistency  
+- Created two separate Date tables (Hiring & Termination) using Power Query  
+- Changed data types and resolved errors  
 
 ## Data Modeling (using Star Scehma)
 👉 Dimension Tables:
@@ -29,23 +29,22 @@ This project analyzes HR data to explore employee trends across demographics, hi
 👉 Employee Overview
 - Headcount, Terminations & Current Working Employees (Graph and PTD % change)
 - Working Employees by Age Range & Department
-- Total Hires by Period and Department
+- Hires by Period and Department
 - Termination Status
 
 👉 Demographics Employee:
-- Total Males, Females (Graph and PTD % Change)
+- Gender Split(Males and Females) Graph and PTD % Change
 - Avg. Income, Avg. Female Income and Avg. Male Income (Graph and PTD % change)
-- Avg. Age (Graph and PTD % change) + Employees divison across Age Ranges
+- Avg. Income (Overall, Male, Female) with PTD % change
 - Current Employees by Race
-- Total Hires by Period and Department
-- Employees Active Status and division of Hispanic Latino
+- Hires by Period and Department
 
 ---
 👉 DAX Measure:
-- Total Hires, Terminations and Current Working Employees
-- PTD % Change of Hires, Terminations and Current Working Employees 
-- Avg. Income, Avg. Female Income and Avg. Male Income
-- PTD % Change ofAvg. Income, Avg. Female Income and Avg. Male Income
+- Total Hires, Terminations & Current Working Employees
+- PTD % Change (Hires, Terminations & Current Working Employees)
+- Avg. Income, Avg. Female Income & Avg. Male Income
+- PTD % Change of Avg. Income (Avg. Female Income & Avg. Male Income)
 ---
 
 ## Project Files
@@ -55,7 +54,8 @@ This project analyzes HR data to explore employee trends across demographics, hi
 
 ---
 
-👯 Open to learning, sharing & collaboration
+👯 Open to learning, sharing & collaboration  
 
-🌱[LinkedIn](#https://www.linkedin.com/in/ayeshabatool160/)
-🌱[E-mail](mailto:ayeshabatool160@gmail.com)
+🌱 [LinkedIn](https://www.linkedin.com/in/ayeshabatool160/)  
+🌱 [E-mail](mailto:ayeshabatool160@gmail.com)
+
