@@ -14,37 +14,37 @@ This project analyzes HR data to explore employee trends across demographics, hi
 
 ## Data Modeling (using Star Scehma)
 - Dimension Tables:
-👉 Employee: ID, Name, Salary, Position, State, Gender, Marital Status, Citizenship Status, Hispanic Latino, Race, Date of Birth, Age, Age Range
-👉 Department: ID, Name
-👉 State Lookup: State Code, Name
-👉 Termination Table: Date ID, Date, Year, Month, Month Name, Month Year, Quarter, Period, Period Number
-👉 Hiring Table: Date ID, Date, Year, Month, Month Name, Month Year, Quarter, Period, Period Number
+  👉 Employee: ID, Name, Salary, Position, State, Gender, Marital Status, Citizenship Status, Hispanic Latino, Race, Date of Birth, Age, Age Range
+  👉 Department: ID, Name
+  👉 State Lookup: State Code, Name
+  👉 Termination Table: Date ID, Date, Year, Month, Month Name, Month Year, Quarter, Period, Period Number
+  👉 Hiring Table: Date ID, Date, Year, Month, Month Name, Month Year, Quarter, Period, Period Number
 
 - Fact Table:
-👉 FactHR: ID, Dep ID, Hiring Date, Termination Date, Hiring ID, Termination ID, Termination Status, Performance Score, Termination Reason, Absences
+  👉 FactHR: ID, Dep ID, Hiring Date, Termination Date, Hiring ID, Termination ID, Termination Status, Performance Score, Termination Reason, Absences
 
 ---
 
 ## Dashboard Features:
 - Employee Overview
-👉 Headcount, Terminations & Current Working Employees (Graph and PTD % change)
-👉 Working Employees by Age Range & Department
-👉 Hires by Period and Department
-👉 Termination Status
+  👉 Headcount, Terminations & Current Working Employees (Graph and PTD % change)
+  👉 Working Employees by Age Range & Department
+  👉 Hires by Period and Department
+  👉 Termination Status
 
 - Demographics Employee:
-👉 Gender Split(Males and Females) Graph and PTD % Change
-👉 Avg. Income, Avg. Female Income and Avg. Male Income (Graph and PTD % change)
-👉 Avg. Income (Overall, Male, Female) with PTD % change
-👉 Current Employees by Race
-👉 Hires by Period and Department
+  👉 Gender Split(Males and Females) Graph and PTD % Change
+  👉 Avg. Income, Avg. Female Income and Avg. Male Income (Graph and PTD % change)
+  👉 Avg. Income (Overall, Male, Female) with PTD % change
+  👉 Current Employees by Race
+  👉 Hires by Period and Department
 
 ---
 - DAX Measure:
-👉 Total Hires, Terminations & Current Working Employees
-👉 PTD % Change (Hires, Terminations & Current Working Employees)
-👉 Avg. Income, Avg. Female Income & Avg. Male Income
-👉 PTD % Change of Avg. Income (Avg. Female Income & Avg. Male Income)
+  👉 Total Hires, Terminations & Current Working Employees
+  👉 PTD % Change (Hires, Terminations & Current Working Employees)
+  👉 Avg. Income, Avg. Female Income & Avg. Male Income
+  👉 PTD % Change of Avg. Income (Avg. Female Income & Avg. Male Income)
 ---
 
 ## Project Files
