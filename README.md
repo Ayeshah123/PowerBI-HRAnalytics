@@ -1,4 +1,4 @@
-# PowerBI-HRAnalytics
+# 📊PowerBI-HRAnalytics
 Interactive Power BI dashboard on HR Analytics showcasing Employee Overview and Demographics across 4 periods (2009–2017).
 
 > **Note:** This project was created for **learning & practice purposes only**.
@@ -13,38 +13,38 @@ This project analyzes HR data to explore employee trends across demographics, hi
 - Changed data types and resolved errors  
 
 ## Data Modeling (using Star Scehma)
-👉 Dimension Tables:
-- Employee: ID, Name, Salary, Position, State, Gender, Marital Status, Citizenship Status, Hispanic Latino, Race, Date of Birth, Age, Age Range
-- Department: ID, Name
-- State Lookup: State Code, Name
-- Termination Table: Date ID, Date, Year, Month, Month Name, Month Year, Quarter, Period, Period Number
-- Hiring Table: Date ID, Date, Year, Month, Month Name, Month Year, Quarter, Period, Period Number
+- Dimension Tables:
+👉 Employee: ID, Name, Salary, Position, State, Gender, Marital Status, Citizenship Status, Hispanic Latino, Race, Date of Birth, Age, Age Range
+👉 Department: ID, Name
+👉 State Lookup: State Code, Name
+👉 Termination Table: Date ID, Date, Year, Month, Month Name, Month Year, Quarter, Period, Period Number
+👉 Hiring Table: Date ID, Date, Year, Month, Month Name, Month Year, Quarter, Period, Period Number
 
-👉 Fact Table:
-- FactHR: ID, Dep ID, Hiring Date, Termination Date, Hiring ID, Termination ID, Termination Status, Performance Score, Termination Reason, Absences
+- Fact Table:
+👉 FactHR: ID, Dep ID, Hiring Date, Termination Date, Hiring ID, Termination ID, Termination Status, Performance Score, Termination Reason, Absences
 
 ---
 
 ## Dashboard Features:
-👉 Employee Overview
-- Headcount, Terminations & Current Working Employees (Graph and PTD % change)
-- Working Employees by Age Range & Department
-- Hires by Period and Department
-- Termination Status
+- Employee Overview
+👉 Headcount, Terminations & Current Working Employees (Graph and PTD % change)
+👉 Working Employees by Age Range & Department
+👉 Hires by Period and Department
+👉 Termination Status
 
-👉 Demographics Employee:
-- Gender Split(Males and Females) Graph and PTD % Change
-- Avg. Income, Avg. Female Income and Avg. Male Income (Graph and PTD % change)
-- Avg. Income (Overall, Male, Female) with PTD % change
-- Current Employees by Race
-- Hires by Period and Department
+- Demographics Employee:
+👉 Gender Split(Males and Females) Graph and PTD % Change
+👉 Avg. Income, Avg. Female Income and Avg. Male Income (Graph and PTD % change)
+👉 Avg. Income (Overall, Male, Female) with PTD % change
+👉 Current Employees by Race
+👉 Hires by Period and Department
 
 ---
-👉 DAX Measure:
-- Total Hires, Terminations & Current Working Employees
-- PTD % Change (Hires, Terminations & Current Working Employees)
-- Avg. Income, Avg. Female Income & Avg. Male Income
-- PTD % Change of Avg. Income (Avg. Female Income & Avg. Male Income)
+- DAX Measure:
+👉 Total Hires, Terminations & Current Working Employees
+👉 PTD % Change (Hires, Terminations & Current Working Employees)
+👉 Avg. Income, Avg. Female Income & Avg. Male Income
+👉 PTD % Change of Avg. Income (Avg. Female Income & Avg. Male Income)
 ---
 
 ## Project Files
