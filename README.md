@@ -1,4 +1,4 @@
-📊 #PowerBI-HRAnalytics
+📊 PowerBI-HRAnalytics
 Interactive Power BI dashboard on HR Analytics showcasing Employee Overview and Demographics across 4 periods (2009–2017).
 
 > **Note:** This project was created for **learning & practice purposes only**.
@@ -49,9 +49,11 @@ This project analyzes HR data to explore employee trends across demographics, hi
 ---
 
 ## Project Files
+- 📊[Power BI File](https://github.com/Ayeshah123/PowerBI-HRAnalytics/blob/main/HR%20Analytics.pbix)
+- 📊[Power BI PDF](https://github.com/Ayeshah123/PowerBI-HRAnalytics/blob/main/HR%20Analytics.pdf)
+- 📊[Dataset](https://github.com/Ayeshah123/PowerBI-HRAnalytics/blob/main/HR_Dataset.csv)
 
-
-
+---
 
 👯 Open to learning, sharing & collaboration
 
