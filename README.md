@@ -13,15 +13,15 @@ This project analyzes HR data to explore employee trends across demographics, hi
 - Changed data types and resolved errors  
 
 ## Data Modeling (using Star Scehma)
-- Dimension Tables:
-  👉 Employee: ID, Name, Salary, Position, State, Gender, Marital Status, Citizenship Status, Hispanic Latino, Race, Date of Birth, Age, Age Range
-  👉 Department: ID, Name
-  👉 State Lookup: State Code, Name
-  👉 Termination Table: Date ID, Date, Year, Month, Month Name, Month Year, Quarter, Period, Period Number
-  👉 Hiring Table: Date ID, Date, Year, Month, Month Name, Month Year, Quarter, Period, Period Number
+### Dimension Tables:
+  - Employee: ID, Name, Salary, Position, State, Gender, Marital Status, Citizenship Status, Hispanic Latino, Race, Date of Birth, Age, Age Range
+  - Department: ID, Name
+  - State Lookup: State Code, Name
+  - Termination Table: Date ID, Date, Year, Month, Month Name, Month Year, Quarter, Period, Period Number
+  - Hiring Table: Date ID, Date, Year, Month, Month Name, Month Year, Quarter, Period, Period Number
 
-- Fact Table:
-  👉 FactHR: ID, Dep ID, Hiring Date, Termination Date, Hiring ID, Termination ID, Termination Status, Performance Score, Termination Reason, Absences
+### Fact Table:
+  - FactHR: ID, Dep ID, Hiring Date, Termination Date, Hiring ID, Termination ID, Termination Status, Performance Score, Termination Reason, Absences
 
 ---
 
