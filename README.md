@@ -1,10 +1,10 @@
 # 📊PowerBI-HRAnalytics
-Interactive Power BI dashboard on HR Analytics showcasing Employee Overview and Demographics across 4 periods (2009–2017).
+Interactive Power BI dashboard on HR Analytics showcasing Employee Overview and Demographics across 4 periods (2006–2017).
 
 > **Note:** This project was created for **learning & practice purposes only**.
 
 ## Introduction
-This project analyzes HR data to explore employee trends across demographics, hiring, and terminations from 2009–2017.
+This project analyzes HR data to explore employee trends across demographics, hiring, and terminations from 2006–2017.
 
 ## Data Cleaning & Preparation
 - Removed duplicate values  
